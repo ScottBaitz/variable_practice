@@ -12,3 +12,5 @@ joke_numbers = 420.69
 staying_at_dps = false
 happy_with_wife = true
 is_fuckup = true
+
+name = "Scoot Boots"
