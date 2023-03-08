@@ -14,3 +14,5 @@ happy_with_wife = true
 is_fuckup = true
 
 name = "Scoot Boots"
+
+puts "Your name is #{name} and your age is #{age} and you'll find #{joke_number} funny still"
